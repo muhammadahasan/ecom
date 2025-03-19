@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
-import { Input } from "../ui/input";
 import { Slider } from "../ui/slider";
+import { Input } from "../ui/Input";
 
 const CommonFilter = () => {
   const [range, setRange] = useState([0.44, 783.72]);
