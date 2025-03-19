@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "country": "United Arab Emirates",
+    "title": "Dubai Economy Escape - 03 Nights 04 Days",
+    "nights": 3,
+    "days": 4,
+    "price": 434.52,
+    "original_price": 517.29,
+    "image": "/images/Atlantis-Water.webp"
+  },
+  {
+    "id": 2,
+    "country": "United Arab Emirates",
+    "title": "Luxury Dubai Getaway - 05 Nights 06 Days",
+    "nights": 5,
+    "days": 6,
+    "price": 650.0,
+    "original_price": 750.0,
+    "image": "/images/Inside-Burj.webp"
+  },
+  {
+    "id": 3,
+    "country": "Thailand",
+    "title": "Bangkok & Phuket Adventure - 07 Nights 08 Days",
+    "nights": 7,
+    "days": 8,
+    "price": 899.99,
+    "original_price": 1050.0,
+    "image": "/images/Atlantis-Water.webp"
+  },
+  {
+    "id": 4,
+    "country": "Malaysia",
+    "title": "Kuala Lumpur & Langkawi - 06 Nights 07 Days",
+    "nights": 6,
+    "days": 7,
+    "price": 720.0,
+    "original_price": 850.0,
+    "image": "/images/Inside-Burj.webp"
+  },
+  {
+    "id": 5,
+    "country": "United Arab Emirates",
+    "title": "Abu Dhabi Luxury Retreat - 04 Nights 05 Days",
+    "nights": 4,
+    "days": 5,
+    "price": 560.0,
+    "original_price": 640.0,
+    "image": "/images/Atlantis-Water.webp"
+  },
+  {
+    "id": 6,
+    "country": "Maldives",
+    "title": "Maldives Beach Escape - 05 Nights 06 Days",
+    "nights": 5,
+    "days": 6,
+    "price": 1100.0,
+    "original_price": 1300.0,
+    "image": "/images/Inside-Burj.webp"
+  },
+  {
+    "id": 7,
+    "country": "Singapore",
+    "title": "Singapore City Delight - 04 Nights 05 Days",
+    "nights": 4,
+    "days": 5,
+    "price": 780.0,
+    "original_price": 900.0,
+    "image": "/images/Atlantis-Water.webp"
+  },
+  {
+    "id": 8,
+    "country": "Bali, Indonesia",
+    "title": "Bali Exotic Escape - 06 Nights 07 Days",
+    "nights": 6,
+    "days": 7,
+    "price": 890.0,
+    "original_price": 1020.0,
+    "image": "/images/Inside-Burj.webp"
+  },
+  {
+    "id": 9,
+    "country": "Turkey",
+    "title": "Istanbul & Cappadocia - 05 Nights 06 Days",
+    "nights": 5,
+    "days": 6,
+    "price": 670.0,
+    "original_price": 780.0,
+    "image": "/images/Atlantis-Water.webp"
+  },
+  {
+    "id": 10,
+    "country": "Egypt",
+    "title": "Cairo & Luxor Explorer - 07 Nights 08 Days",
+    "nights": 7,
+    "days": 8,
+    "price": 950.0,
+    "original_price": 1100.0,
+    "image": "/images/Inside-Burj.webp"
+  }
+]

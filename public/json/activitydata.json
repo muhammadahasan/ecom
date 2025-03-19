@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Atlantis Water Park",
+    "image": "/images/Atlantis-Water.webp",
+    "discount": "30% OFF",
+    "reviews": 450,
+    "price": 59.99,
+    "oldPrice": 85.99
+  },
+  {
+    "name": "Inside Burj Khalifa",
+    "image": "/images/Inside-Burj.webp",
+    "discount": "25% OFF",
+    "reviews": 1230,
+    "price": 89.99,
+    "oldPrice": 119.99
+  },
+  {
+    "name": "Great Wall of China Tour",
+    "image": "/images/Atlantis-Water.webp",
+    "discount": "20% OFF",
+    "reviews": 710,
+    "price": 120.0,
+    "oldPrice": 150.0
+  },
+  {
+    "name": "Eiffel Tower Skip-the-Line",
+    "image": "/images/Inside-Burj.webp",
+    "discount": "15% OFF",
+    "reviews": 850,
+    "price": 55.99,
+    "oldPrice": 65.99
+  },
+  {
+    "name": "Grand Canyon Helicopter Tour",
+    "image": "/images/Atlantis-Water.webp",
+    "discount": "10% OFF",
+    "reviews": 620,
+    "price": 225.99,
+    "oldPrice": 250.99
+  },
+  {
+    "name": "Machu Picchu Adventure",
+    "image": "/images/Inside-Burj.webp",
+    "discount": "5% OFF",
+    "reviews": 400,
+    "price": 140.5,
+    "oldPrice": 148.99
+  },
+  {
+    "name": "Sydney Opera House Tour",
+    "image": "/images/Atlantis-Water.webp",
+    "discount": "12% OFF",
+    "reviews": 920,
+    "price": 80.99,
+    "oldPrice": 92.99
+  },
+  {
+    "name": "Tokyo Disneyland",
+    "image": "/images/Inside-Burj.webp",
+    "discount": "8% OFF",
+    "reviews": 630,
+    "price": 75.0,
+    "oldPrice": 81.99
+  },
+  {
+    "name": "Egyptian Pyramids Tour",
+    "image": "/images/Atlantis-Water.webp",
+    "discount": "18% OFF",
+    "reviews": 1050,
+    "price": 99.99,
+    "oldPrice": 120.0
+  },
+  {
+    "name": "Santorini Day Trip",
+    "image": "/images/Inside-Burj.webp",
+    "discount": "22% OFF",
+    "reviews": 540,
+    "price": 69.99,
+    "oldPrice": 89.99
+  }
+]

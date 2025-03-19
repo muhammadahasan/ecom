@@ -1,0 +1,67 @@
+{
+  "Asia": [
+    {
+      "name": "Malaysia",
+      "image": "/images/abu-dhabi.jpg",
+      "cities": [
+        { "name": "Kuala Lumpur", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Langkawi", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Genting Highlands", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Ipoh", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Malacca", "image": "/images/singapore.jpg" },
+        { "name": "Penang", "image": "/images/singapore.jpg" },
+        { "name": "Selangor", "image": "/images/singapore.jpg" },
+        { "name": "Johor Bahru", "image": "/images/abu-dhabi.jpg" }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "image": "/images/abu-dhabi.jpg",
+      "cities": [{ "name": "Singapore", "image": "/images/abu-dhabi.jpg" }]
+    },
+    {
+      "name": "Thailand",
+      "image": "/images/abu-dhabi.jpg",
+      "cities": [
+        { "name": "Bangkok", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Pattaya", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Phuket", "image": "/images/singapore.jpg" },
+        { "name": "Chiang Mai", "image": "/images/singapore.jpg" },
+        { "name": "Koh Samui", "image": "/images/singapore.jpg" },
+        { "name": "Hua Hin", "image": "/images/abu-dhabi.jpg" }
+      ]
+    },
+    {
+      "name": "South Korea",
+      "image": "/images/abu-dhabi.jpg",
+      "cities": [
+        { "name": "Seoul", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Gyeonggi-do", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Busan", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Jeju", "image": "/images/singapore.jpg" },
+        { "name": "Gangwon-do", "image": "/images/singapore.jpg" }
+      ]
+    }
+  ],
+  "North America": [
+    {
+      "name": "United States",
+      "image": "/images/abu-dhabi.jpg",
+      "cities": [
+        { "name": "New York", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Los Angeles", "image": "/images/singapore.jpg" },
+        { "name": "Las Vegas", "image": "/images/singapore.jpg" },
+        { "name": "Miami", "image": "/images/abu-dhabi.jpg" }
+      ]
+    },
+    {
+      "name": "Canada",
+      "image": "/images/abu-dhabi.jpg",
+      "cities": [
+        { "name": "Toronto", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Vancouver", "image": "/images/abu-dhabi.jpg" },
+        { "name": "Montreal", "image": "/images/abu-dhabi.jpg" }
+      ]
+    }
+  ]
+}

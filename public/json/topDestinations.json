@@ -1,0 +1,58 @@
+{
+  "continents": [
+    {
+      "name": "Asia",
+      "image": "/images/asia.jpg",
+      "cities": [
+        ["Tokyo", "Beijing", "Delhi"],
+        ["Bangkok", "Seoul", "Jakarta"],
+        ["Mumbai", "Kuala Lumpur", "Dubai", "Shanghai"]
+      ]
+    },
+    {
+      "name": "Africa",
+      "image": "/images/africa.jpg",
+      "cities": [
+        ["Lagos", "Cairo", "Nairobi"],
+        ["Johannesburg", "Cape Town", "Accra"],
+        ["Addis Ababa", "Dar es Salaam", "Kampala", "Algiers"]
+      ]
+    },
+    {
+      "name": "Europe",
+      "image": "/images/europe.jpg",
+      "cities": [
+        ["London", "Paris", "Berlin"],
+        ["Madrid", "Rome", "Amsterdam"],
+        ["Moscow", "Lisbon", "Vienna", "Stockholm"]
+      ]
+    },
+    {
+      "name": "North America",
+      "image": "/images/north-america.jpg",
+      "cities": [
+        ["New York", "Los Angeles", "Toronto"],
+        ["Chicago", "Mexico City", "Houston"],
+        ["Miami", "Vancouver", "Montreal", "San Francisco"]
+      ]
+    },
+    {
+      "name": "South America",
+      "image": "/images/latin-america.jpg",
+      "cities": [
+        ["Sao Paulo", "Buenos Aires", "Rio de Janeiro"],
+        ["Lima", "Bogota", "Santiago"],
+        ["Caracas", "Quito", "La Paz", "Montevideo"]
+      ]
+    },
+    {
+      "name": "Australia/Oceania",
+      "image": "/images/australia.jpg",
+      "cities": [
+        ["Sydney", "Melbourne", "Brisbane"],
+        ["Perth", "Adelaide", "Gold Coast"],
+        ["Canberra", "Hobart", "Darwin", "Newcastle"]
+      ]
+    }
+  ]
+}

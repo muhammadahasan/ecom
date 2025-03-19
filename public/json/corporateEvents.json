@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Wedding Planner",
+    "image": "https://www.jtrholidays.com/events/wedding.svg?tr=f-webp"
+  },
+  {
+    "id": 2,
+    "name": "Event Management",
+    "image": "https://www.jtrholidays.com/events/event.svg?tr=f-webp"
+  },
+  {
+    "id": 3,
+    "name": "Conference & Exhibition",
+    "image": "https://www.jtrholidays.com/events/conference.svg?tr=f-webp"
+  },
+  {
+    "id": 4,
+    "name": "Gala Dinner & Theme Events",
+    "image": "https://www.jtrholidays.com/events/gala.svg?tr=f-webp"
+  },
+  {
+    "id": 5,
+    "name": "Company Fun Day",
+    "image": "https://www.jtrholidays.com/events/company.svg?tr=f-webp"
+  },
+  {
+    "id": 6,
+    "name": "Corporate Events",
+    "image": "https://www.jtrholidays.com/events/corporate.svg?tr=f-webp"
+  }
+]

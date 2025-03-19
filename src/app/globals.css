@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1b264f;
+  --accent: #274690;
+  --muted: #9ca3af;
+}
+
+body {
+  font-family: poppins, Helvetica, sans-serif;
+  /* background-color: white; */
+}
+
+.card-hover:hover {
+  @apply transition;
+}
+
+/* .text-accent {
+  color: #02bbbb;
+}
+
+.text-muted {
+  color: #9ca3af;
+} */

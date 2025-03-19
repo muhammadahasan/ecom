@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "/icons/home/pointer.svg",
+    "title": "Premium Experiences",
+    "description": "Travel experiences, carefully curated to ensure you explore the best each destination has to offer."
+  },
+  {
+    "id": 2,
+    "icon": "/icons/home/worldwide.svg",
+    "title": "Worldwide Tours",
+    "description": "Book hassle-free across the globe, from UAE to Singapore, USA, Europe, Oceania, and beyond!"
+  },
+  {
+    "id": 3,
+    "icon": "/icons/home/call-center.svg",
+    "title": "24/7 Support",
+    "description": "Travel experiences, carefully curated to ensure you explore the best each destination has to offer."
+  },
+  {
+    "id": 4,
+    "icon": "/icons/home/trusted.svg",
+    "title": "Travel With Confidence",
+    "description": "Top-rated on Google and Trustpilot, & your first-choice travel operator for a seamless experience!"
+  }
+]

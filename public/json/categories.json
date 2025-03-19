@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Desert Safari",
+    "image": "/images/Desert-Safari.jpg"
+  },
+  {
+    "id": 2,
+    "name": "City Tour",
+    "image": "/images/City-Tours.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Water Park",
+    "image": "/images/Water-Sports.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Theme Park",
+    "image": "/images/Atlantis-Water.webp"
+  },
+  {
+    "id": 5,
+    "name": "Dinner Cruise",
+    "image": "/images/Desert-Safari.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Helicopter Ride",
+    "image": "/images/City-Tours.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hot Air Balloon",
+    "image": "/images/Water-Sports.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mountain Hiking",
+    "image": "/images/Water-Sports.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Scuba Diving",
+    "image": "/images/City-Tours.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wildlife Safari",
+    "image": "/images/Desert-Safari.jpg"
+  }
+]

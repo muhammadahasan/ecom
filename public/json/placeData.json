@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "United Arab Emirates",
+    "image": "/images/maldives.jpg",
+    "tours": "204"
+  },
+  {
+    "id": 2,
+    "name": "Maldives",
+    "image": "/images/riadh.jpg",
+    "tours": "150"
+  },
+  {
+    "id": 3,
+    "name": "Switzerland",
+    "image": "/images/taj.jpg",
+    "tours": "120"
+  },
+  {
+    "id": 4,
+    "name": "Thailand",
+    "image": "/images/brighe.jpg",
+    "tours": "180"
+  },
+  {
+    "id": 5,
+    "name": "Japan",
+    "image": "/images/maldives.jpg",
+    "tours": "95"
+  },
+  {
+    "id": 6,
+    "name": "France",
+    "image": "/images/riadh.jpg",
+    "tours": "230"
+  },
+  {
+    "id": 7,
+    "name": "Italy",
+    "image": "/images/taj.jpg",
+    "tours": "175"
+  },
+  {
+    "id": 8,
+    "name": "Australia",
+    "image": "/images/brighe.jpg",
+    "tours": "110"
+  }
+]
