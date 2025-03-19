@@ -1,5 +1,5 @@
 import { Calendar, Search } from "lucide-react";
-import { Input } from "../ui/input";
+import { Input } from "../ui/Input";
 import Link from "next/link";
 import BlogCard from "./BlogCard";
 

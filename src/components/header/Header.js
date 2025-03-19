@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Input } from "../ui/input";
 import { GiBanknote } from "react-icons/gi";
 import Link from "next/link";
 import NavBar from "./NavBar";

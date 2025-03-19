@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import { Input } from "../ui/input";
+import { Input } from "../ui/Input";
 import { GiBanknote } from "react-icons/gi";
 import Link from "next/link";
 import { Menu, Search, X } from "lucide-react";

@@ -1,6 +1,6 @@
 "use client";
 import { Star } from "lucide-react";
-import { Input } from "../ui/input";
+import { Input } from "../ui/Input";
 import { Textarea } from "../ui/textarea";
 import PhoneInputComponent from "../common/PhoneInput";
 

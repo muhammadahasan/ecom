@@ -1,7 +1,6 @@
 "use client";
 import { useState } from "react";
 import { Button } from "../ui/button";
-// import { Input } from "../ui/input";
 import { Slider } from "../ui/slider";
 import { Input } from "../ui/Input";
 
